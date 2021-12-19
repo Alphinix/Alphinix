@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Alphinix
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning javascript
+- 💞️ I’m looking to collaborate on nothing
+- 📫 How to reach me: https://logixism.tech
